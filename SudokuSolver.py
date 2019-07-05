@@ -1,3 +1,4 @@
+#Made by PIOLAD
 def sudoku_empty(sudoku):
     for row in sudoku:
         for element in row:
