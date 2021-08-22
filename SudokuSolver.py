@@ -1,4 +1,4 @@
-#Made by PIOLAD
+#Made by Piotr Łądkowski
 def sudoku_empty(sudoku):
     for row in sudoku:
         for element in row:
